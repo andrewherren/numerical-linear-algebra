@@ -1,1 +1,1 @@
-c.NotebookApp.notebook_dir = 'notebooks'
+c.NotebookApp.notebook_dir = 'nbs'
